@@ -5,24 +5,8 @@
 🛠 I build scalable apps with clean code & real-world use <br>
 🌌 I work on JWT-secured APIs, cloud deployment, and Docker setups <br>
 📚 Learning from IBM, AWS, Google & DevOps Mastery certifications <br>
-📸 I share code experiments and project progress on LinkedIn <br>
-<br>
-
----
-
-🚀 *Current Projects* <br>  
-- *TaleemBazaar* – MERN app for second-hand academic books (JWT, Uploads, Admin Dashboard) <br>  
-- *SecureAPI-JWT* – Node.js REST API with role-based auth, rate limiting, CORS  
-<br>
-
-📚 *Certified by:* <br>  
-IBM (Full Stack), Google (API Security), AWS (Cloud), DevOps Mastery  
-<br>
-
----
-
-📬 Let's connect! <br>  
-[LinkedIn](https://www.linkedin.com/in/ayesha-khalid-616640310) • [GitHub](https://github.com/ayeshakhzafar)
+📬 Let's connect! 
+[LinkedIn](https://www.linkedin.com/in/ayesha-khalid-616640310) 
 
 
 # 💻 Tech Stack:
