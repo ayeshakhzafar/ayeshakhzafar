@@ -1,4 +1,4 @@
-## Hi, I'm Ayesha ✨ 
+## Hi, I'm Ayesha 😼
 
 💻 Software Engineering student @ FAST (2026) <br>
 🧠 Full Stack Developer (MERN) with DevOps & API Security focus <br>
